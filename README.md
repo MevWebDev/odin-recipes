@@ -1,2 +1,9 @@
-# odin-recipes
-This project will be the summary of my HTML basics learned in The Odin Project
+# The Odin Project Recipes Task
+"This project showcases what I've learned about HTML from The Odin Project. I'll be using new skills like:
+
+- Making titles
+- Creating lists
+- Adding links
+- Putting in pictures"
+
+
